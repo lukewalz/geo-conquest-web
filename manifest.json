@@ -1,0 +1,17 @@
+{
+  "name": "GeoConquest",
+  "short_name": "GeoConquest",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "theme_color": "#7938E9",
+  "background_color": "#F8F9FE",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
